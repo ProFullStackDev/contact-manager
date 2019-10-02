@@ -1,0 +1,3 @@
+# CONTACT MANAGER WEB APPLICATION
+
+This is a MERN stack app.
