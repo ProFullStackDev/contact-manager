@@ -27,12 +27,18 @@ yarn-error.log*
 # Client
 
 /client/build
+/client/node_modules
+/client/.DS_Store
+/client/.pnp
+/client/.pnp.js
+/client/coverage
 
 /client/.env.local
 /client/.env.development.local
 /client/.env.test.local
 /client/.env.production.local
+/client/.env
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+/client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
