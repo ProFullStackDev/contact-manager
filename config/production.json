@@ -1,0 +1,4 @@
+{
+  "mongoURI": "MY_MONGO_URI",
+  "jwtSecret": "secret"
+}
